@@ -1,6 +1,6 @@
 # AppWeather
 
-App for getting current and forecast weather by city name.
+App for getting current and forecast weather by city name. https://sergeicl.github.io/new-app-weather/%60/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
