@@ -91,3 +91,20 @@
       text-align: center;
     }
   }
+  main .wraper {
+    padding: 8px 10px;
+    margin: 20px auto;
+  }
+
+  header .day_container {
+    .wraper {
+      height: 50px;
+      flex-direction: row;
+      justify-content: flex-start;
+    }
+  }
+  @media (max-width: 480px) {
+    .container {
+      width: 100%;
+    }
+  }
