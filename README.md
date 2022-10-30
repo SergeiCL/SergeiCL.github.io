@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Description
 
-My new-app-weather was created by using OpenWeather API.My Weather App was created by using OpenWeather API.
+My new-app-weather was created by using [OpenWeather API](https://openweathermap.org/api).
 
 ## Development server
 
